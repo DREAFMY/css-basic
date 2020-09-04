@@ -18,7 +18,7 @@ C <lable>.section, .title {}</lable>
 D <lable>.section > .title {}</lable>  
 
 
-3.在下列选择器中，哪一个代表同一个元素同时拥有 section 和 title 两个class? ( C )
+3.在下列选择器中，哪一个代表同一个元素同时拥有 section 和 title 两个class? ( B )
 
 A <lable>.section .title {}</lable>  
 B <lable>.section.title {}</lable>   
@@ -36,7 +36,7 @@ D <lable>.section > .title {}</lable>
 
 
 
-5.在下列CSS选择器中，优先级从高到低是：( D )
+5.在下列CSS选择器中，优先级从高到低是：( B )
 ```
 <div class="section">
     <h1 id="title" class="title">title</h1>
